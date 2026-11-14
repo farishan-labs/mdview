@@ -19,11 +19,24 @@ Built for Faris Han Labs' research workflow; pairs with the `/openmd` slash comm
 
 ## Install
 
+One-liner (curl, served via GitHub Pages):
+
 ```bash
-git clone git@github.com:farishan-labs/mdview.git
+curl -fsSL https://farishan-labs.github.io/mdview/install.sh | bash
+```
+
+From a clone:
+
+```bash
+git clone https://github.com/farishan-labs/mdview.git
 cd mdview
-./scripts/install-deps.sh   # apt packages + pip
-./run.sh path/to/file.md
+./install.sh
+```
+
+Uninstall:
+
+```bash
+curl -fsSL https://farishan-labs.github.io/mdview/uninstall.sh | bash
 ```
 
 ## Usage
