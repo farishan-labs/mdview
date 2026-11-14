@@ -1,5 +1,7 @@
 # mdview
 
+![mdview screenshot](docs/screenshot.png)
+
 
 A fast, beautiful, native Markdown viewer for Ubuntu.
 
