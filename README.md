@@ -3,7 +3,7 @@
 ![mdview screenshot](docs/screenshot.png)
 
 
-A fast, beautiful, native Markdown viewer for Ubuntu.
+A fast, native Markdown viewer for Ubuntu.
 
 - Native window: GTK3 + WebKit2GTK 4.0 (no Electron/Chromium bundle).
 - Fullscreen, borderless, close with `Esc`.
