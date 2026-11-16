@@ -17,7 +17,7 @@ Built for Faris Han Labs' research workflow; pairs with the `/openmd` slash comm
 
 - Ubuntu 22.04+ (X11; GNOME)
 - Python 3.10+
-- GTK 3 + WebKit2GTK 4.0 dev/runtime packages
+- `vocus` installed and on PATH (native HTML viewer)
 - `markdown-it-py` (Python)
 
 ## Install
