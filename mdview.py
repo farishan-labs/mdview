@@ -9,7 +9,7 @@ from markdown_it import MarkdownIt
 
 RESEARCH_TOPICS = "/home/faris/dev/labs/research/topics"
 
-md = MarkdownIt()
+md = MarkdownIt().enable(['table', 'strikethrough'])
 VERSION = "0.1.0"
 
 
